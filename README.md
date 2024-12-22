@@ -97,10 +97,8 @@ Calculator_API/
 │       └── main.go  # Точка входа
 ├── internal/
 │   ├── calculator/
-│   │   ├── calculator.go  # Логика вычисления
-│   │   └── validator.go   # Валидация выражений
+│   │   └── calculator.go  # Логика вычисления
 │   └── server/
-│       ├── handler.go     # Обработчики HTTP-запросов
 │       └── server.go      # Запуск сервера
 ├── go.mod                # Go-модуль
 ├── go.sum
