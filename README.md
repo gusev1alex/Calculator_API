@@ -91,7 +91,7 @@ curl --location 'http://localhost:8080/api/v1/calculate' \
 
 ## Структура проекта
 ```
-calc_service/
+Calculator_API/
 ├── cmd/
 │   └── calc_service/
 │       └── main.go  # Точка входа
